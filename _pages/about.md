@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hello, world! I'm Glad, and I'm here to share some awesome stuff I learn every week(or month may be).
+
+And by the way, this blog was created with [fastpages](https://github.com/fastai/fastpages), an easy to use blogging platform based on jupyter notebooks.
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
